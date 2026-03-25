@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "38251730-c822-430c-bdf3-3e5f83ee35d9",
+			"database_name": "d1-template-database-loans"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
